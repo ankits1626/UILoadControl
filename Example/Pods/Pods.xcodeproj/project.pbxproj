@@ -33,36 +33,36 @@
 
 /* Begin PBXFileReference section */
 		0375C6349CCC2A97FD05A160CE9BB48E /* UILoadControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILoadControl-dummy.m"; sourceTree = "<group>"; };
-		0DBED988CC319814FBDFBCFE323A3718 /* UILoadControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = UILoadControl.modulemap; sourceTree = "<group>"; };
+		0DBED988CC319814FBDFBCFE323A3718 /* UILoadControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = UILoadControl.modulemap; sourceTree = "<group>"; };
 		0E894C5DD522263710360729A860EF2E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		195D1ED92B079A2259C04DDC97ABD2F3 /* UILoadControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UILoadControl.swift; sourceTree = "<group>"; };
 		21019CCF620888EFBADFCEC052480EE5 /* Pods-UILoadControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-UILoadControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		238E4DBF909FCD332B580CCB89D636C0 /* Pods-UILoadControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-UILoadControl_Example-frameworks.sh"; sourceTree = "<group>"; };
 		29A87496D92CD2453172D1EE8B1AB9CF /* Pods-UILoadControl_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-UILoadControl_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		2DCE926ED348D476CBEAFFD12CB6B32F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		30C570EBF82BAACE1C35ABDB747D4569 /* Pods_UILoadControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_UILoadControl_Example.framework; path = "Pods-UILoadControl_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		30C570EBF82BAACE1C35ABDB747D4569 /* Pods_UILoadControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UILoadControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4394A09EDBD5B777AEDA26CBB721724C /* Pods-UILoadControl_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-UILoadControl_Example-resources.sh"; sourceTree = "<group>"; };
 		5089216A8112DF3BD531BB4F9F94A1E9 /* UILoadControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILoadControl-umbrella.h"; sourceTree = "<group>"; };
 		611C06B15337220644BEA3D1FD27A04E /* Pods-UILoadControl_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-UILoadControl_Tests-umbrella.h"; sourceTree = "<group>"; };
 		616BEB51ECCAD129BDBCB7A956B56CC6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		734A240478E8510E7503E1C1919E3019 /* Pods_UILoadControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_UILoadControl_Tests.framework; path = "Pods-UILoadControl_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		734A240478E8510E7503E1C1919E3019 /* Pods_UILoadControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UILoadControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C1C918894A13A12D0C8D51E99D46A11 /* Pods-UILoadControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-UILoadControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		7D261C878AC735D40BB9679FD4E47EE0 /* Pods-UILoadControl_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-UILoadControl_Tests-resources.sh"; sourceTree = "<group>"; };
 		7EC994CDC2D681BA26389F78A7E4B325 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		854B4DB97707A1E87723FC194ECB42BB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		88E98CCC98D431CD1A9B86433461E479 /* Pods-UILoadControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-UILoadControl_Example.modulemap"; sourceTree = "<group>"; };
+		88E98CCC98D431CD1A9B86433461E479 /* Pods-UILoadControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-UILoadControl_Example.modulemap"; sourceTree = "<group>"; };
 		8C718728CB54CC1AA79296D5D8A72229 /* Pods-UILoadControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-UILoadControl_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9019F4E7AD6AED10A9413A2617C82366 /* Pods-UILoadControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-UILoadControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		991C333FA4B6A6C07CE51B157008EF38 /* Pods-UILoadControl_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-UILoadControl_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		9A839FAFCAC6D15C89CFC22D87093CD1 /* Pods-UILoadControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-UILoadControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A7B010E6F51C3DB0DBC2F9D5F0161F19 /* Pods-UILoadControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-UILoadControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A83839AE3EB77A022C24B3DDCCC79228 /* Pods-UILoadControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-UILoadControl_Example-umbrella.h"; sourceTree = "<group>"; };
-		BB8AB0BC0EC7813F40BF330F86503C63 /* UILoadControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = UILoadControl.framework; path = UILoadControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB8AB0BC0EC7813F40BF330F86503C63 /* UILoadControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UILoadControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD2F43B63BD84CF58C93C6E0DC0F0048 /* Pods-UILoadControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-UILoadControl_Example-dummy.m"; sourceTree = "<group>"; };
 		CD244D64C6F2B4AC704725B516EA14A0 /* UILoadControl.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = UILoadControl.xcconfig; sourceTree = "<group>"; };
 		D7A4EECC90A913A03E3377E5C40C963D /* Pods-UILoadControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-UILoadControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D9380A8E1DDD2AB4415D67B71F11A126 /* Pods-UILoadControl_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-UILoadControl_Tests.modulemap"; sourceTree = "<group>"; };
+		D9380A8E1DDD2AB4415D67B71F11A126 /* Pods-UILoadControl_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-UILoadControl_Tests.modulemap"; sourceTree = "<group>"; };
 		DE7FD3C7C3F18936C1BA285AB4CD1D24 /* UILoadControl_UIScrollView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UILoadControl_UIScrollView.swift; sourceTree = "<group>"; };
 		EDB9144BFC775876DEFAE4412C0EA65C /* Pods-UILoadControl_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-UILoadControl_Tests-dummy.m"; sourceTree = "<group>"; };
 		FBC136129D3A6F8E9F4A624BDDD3B6D1 /* UILoadControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILoadControl-prefix.pch"; sourceTree = "<group>"; };
@@ -102,7 +102,6 @@
 			children = (
 				F95CCBE8090AC21B5A0B3BC2790B3B55 /* Classes */,
 			);
-			name = Pod;
 			path = Pod;
 			sourceTree = "<group>";
 		};
@@ -227,7 +226,6 @@
 				195D1ED92B079A2259C04DDC97ABD2F3 /* UILoadControl.swift */,
 				DE7FD3C7C3F18936C1BA285AB4CD1D24 /* UILoadControl_UIScrollView.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -327,6 +325,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -552,7 +551,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/UILoadControl/UILoadControl-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/UILoadControl/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/UILoadControl/UILoadControl.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -560,7 +559,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -621,14 +620,14 @@
 				GCC_PREFIX_HEADER = "Target Support Files/UILoadControl/UILoadControl-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/UILoadControl/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/UILoadControl/UILoadControl.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = UILoadControl;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
